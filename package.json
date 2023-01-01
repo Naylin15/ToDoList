@@ -13,21 +13,21 @@
   "main": "js/index.js",
   "dependencies": {
     "fomantic-ui": "^2.8.6",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
-    "css-loader": "^3.5.3",
+    "css-loader": "^6.7.3",
     "cypress": "^4.11.0",
     "diff": "^3.5.0",
     "eslint": "^6.8.0",
     "html-loader": "^1.1.0",
-    "html-webpack-plugin": "^4.2.1",
+    "html-webpack-plugin": "^5.5.0",
     "jest": "^26.0.1",
     "lodash.template": "^4.5.0",
     "style-loader": "^1.2.1",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
